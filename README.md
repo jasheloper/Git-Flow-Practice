@@ -19,4 +19,4 @@ This project is designed for one to practice the Git/Github workflow here at Lam
 
 - Steve Rogers
 - Ryan Hamblin
-- Jashele Tillman made a change ^_^
+- Jashele Tillman -- made a change ^_^
